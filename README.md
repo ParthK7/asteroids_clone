@@ -1,5 +1,7 @@
 # 🪐 Asteroids Clone – Python + Pygame
 
+![Gameplay Demo](ezgif-5967c7e93fcb58.gif)
+
 A faithful recreation of the classic **Asteroids** arcade game, built using **Python** and **Pygame** with a focus on clean **Object-Oriented Programming (OOP)** design.
 
 In this game, you control a spaceship that can rotate, thrust, and shoot. When a large asteroid is shot, it splits into two medium asteroids; medium asteroids split into two small ones, and small asteroids disappear when shot. The game loop is driven by delta time to ensure smooth performance.
