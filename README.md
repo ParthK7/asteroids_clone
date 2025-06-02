@@ -1,3 +1,1 @@
-# asteroids_clone
-
-Building the game.
+This is a clone of the Asteroids game. 
