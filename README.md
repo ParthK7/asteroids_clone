@@ -43,13 +43,13 @@ In this game, you control a spaceship that can rotate, thrust, and shoot. When a
 
 ## 🧠 OOP Design Overview
 
-- **Inheritance**: All game entities like asteroids and the player inherit from a common `Circle` base class for shared behavior.
+- **Inheritance**: All game entities like asteroids and the player inherit from a common `CircleShape` base class for shared behavior.
 - **Encapsulation**: Each game object manages its own state and behavior.
 - **Modularity**: Easily extendable and maintainable due to well-separated concerns and class-based architecture.
 
 ## 🎮 Controls
 
-- **Arrow keys / WASD**: Move and rotate the spaceship  
+- **WASD**: Move and rotate the spaceship  
 - **Spacebar**: Shoot  
 - **ESC**: Exit game  
 
